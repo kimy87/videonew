@@ -30,7 +30,7 @@
         <div class="uk-grid">
           <div class="uk-width-medium-1-2">
             <div class="uk-panel uk-panel-box" data-uk-scrollspy="{cls:'uk-animation-slide-left', delay:300}" style="background:rgba(0,0,0,0.3);min-height:400px;">
-              <h3>Scale up</h3>
+              <h3>Scale up1</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
             </div>
           </div>
