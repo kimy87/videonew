@@ -38,6 +38,7 @@
             <div class="uk-panel uk-panel-box" data-uk-scrollspy="{cls:'uk-animation-slide-right', delay:900}" style="background:rgba(0,0,0,0.2);min-height:800px;">
               <h3>Scale up</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <p>bla..bla..bla...</p>
             </div>
           </div>
         </div>
